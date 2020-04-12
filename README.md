@@ -21,3 +21,5 @@ Como já
 
 5 - Quais evidências você possui de que seu modelo é suficientemente bom?
 
+Como os testes foram realizados baseados na estimação da incerteza estatística, vemos que os modelos finais treinados estão dentro da barra de erro, o que indica o limite de eficiência associada ao conjunto de dados. Assim sendo, podemos ver que os modelos finais estão dentro deste limite. Outro ponto que deve ser destacado é o alto desbalanceamento entre as classes disponibilizadas. As classes de qualidade 3, 4, 8 e 9 são muito menos presentes no conjunto de dados do que as outras classes. Os resultados foram altamente impactos por estes desbalanceamento de classes.  
+
