@@ -13,7 +13,11 @@ Durante o processo de EDA, foi observado que os dados não seguem uma distribui�
 
 3 - Qual foi o critério utilizado na seleção do modelo final?
 
+Durante o processo de seleção de hiper-parâmetros, o modelo de validação cruzada (cross-validation) foi aplicado. Este modelo pressupõe que o conjunto de dados disponíveis é particionado em conjuntos dijuntos de dados para o desenvolvimento de modelos intermediários, sendo uma parte destes conjuntos separado para a validação dos conjuntos desenvolvidos. Estes modelos são avaliados e o conjunto de hiper-parâmetros é definido com a estimativa da incerteza associada a cada um dos modelos. Por fim, o modelo com o conjunto de hiper-parâmetros é treinado com todo o conjunto de dados e, assim, temos o modelo final.
+
 4 - Qual foi o critério utilizado para validação do modelo? Por que escolheu utilizar este método?
+
+Como já 
 
 5 - Quais evidências você possui de que seu modelo é suficientemente bom?
 
