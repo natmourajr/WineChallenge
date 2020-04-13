@@ -17,7 +17,7 @@ Durante o processo de seleção de hiper-parâmetros, o modelo de validação cr
 
 4 - Qual foi o critério utilizado para validação do modelo? Por que escolheu utilizar este método?
 
-Como já 
+O processo de validação já foi definido durante a resposta anterior. O mais importante, ao meu ver aqui, foi a questão da generalização. Sempre avaliei esta métrica durante o processo de treinamento para evitar overtraining e outras perdas de generalização.
 
 5 - Quais evidências você possui de que seu modelo é suficientemente bom?
 
